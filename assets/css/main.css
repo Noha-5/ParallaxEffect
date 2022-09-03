@@ -27,7 +27,7 @@
 }
 .div2 {
     background-image: linear-gradient(#311349, #1789ad);
-    height: 100vh;
+    padding-bottom: 16rem;
 }
 .title,
 .para,
