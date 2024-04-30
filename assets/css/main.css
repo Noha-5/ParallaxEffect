@@ -7,7 +7,7 @@
     box-sizing: border-box;
 }
 .div1 {
-    background-image: linear-gradient(to bottom, #311349, #551e81);
+    background-image: linear-gradient(to bottom, #260b3a, #b04fff);
     position: relative;
     z-index: 0;
     overflow: hidden;
