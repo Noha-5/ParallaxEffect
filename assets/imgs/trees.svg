@@ -15,11 +15,11 @@
 		</linearGradient>
 		<linearGradient id="g4" x1="3219.4" y1="787.1" x2="2789.5" y2="1387" gradientUnits="userSpaceOnUse">
 			<stop offset="0" stop-color="#653385"/>
-			<stop offset=".8" stop-color="#994a46"/>
+			<stop offset=".8" stop-color="#311349"/>
 		</linearGradient>
 		<linearGradient id="g5" x1="1738.4" y1="773.1" x2="1308.5" y2="1373" gradientUnits="userSpaceOnUse">
 			<stop offset="0" stop-color="#653385"/>
-			<stop offset=".8" stop-color="#994a46"/>
+			<stop offset=".8" stop-color="#311349"/>
 		</linearGradient>
 		<linearGradient id="g6" x1="1921.4" y1="824.1" x2="1491.5" y2="1424" gradientUnits="userSpaceOnUse">
 			<stop offset="0" stop-color="#994843"/>
@@ -65,19 +65,19 @@
 	<style>
 		.s0 { fill: url(#g1) } 
 		.s1 { fill: url(#g2) } 
-		.s2 { fill: url(#g3) } 
-		.s3 { fill: url(#g4) } 
-		.s4 { fill: url(#g5) } 
-		.s5 { fill: url(#g6) } 
-		.s6 { fill: url(#g7) } 
-		.s7 { fill: url(#g8) } 
-		.s8 { fill: url(#g9) } 
-		.s9 { fill: url(#g10) } 
-		.s10 { fill: url(#g11) } 
-		.s11 { fill: url(#g12) } 
-		.s12 { fill: url(#g13) } 
-		.s13 { fill: url(#g14) } 
-		.s14 { fill: url(#g15) } 
+		.s2 { fill: url(#g1) } 
+		.s3 { fill: url(#g1) } 
+		.s4 { fill: url(#g2) } 
+		.s5 { fill: url(#g2) } 
+		.s6 { fill: url(#g1) } 
+		.s7 { fill: url(#g2) } 
+		.s8 { fill: url(#g5) } 
+		.s9 { fill: url(#g1) } 
+		.s10 { fill: url(#g1) } 
+		.s11 { fill: url(#g4) } 
+		.s12 { fill: url(#g4) } 
+		.s13 { fill: url(#g1) } 
+		.s14 { fill: url(#g3) } 
 	</style>
 	<g id="Layer 1">
 		<g id="&lt;Group&gt;">
